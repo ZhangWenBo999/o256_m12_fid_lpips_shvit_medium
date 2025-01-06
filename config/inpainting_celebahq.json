@@ -107,7 +107,7 @@
                         "attn_res": [
 //                            1,
 //                            2,
-                            4,
+                            4
 //                            8
                         ],
                         "num_head_channels": 32,
